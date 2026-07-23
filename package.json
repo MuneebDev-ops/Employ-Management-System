@@ -1,0 +1,30 @@
+{
+  "name": "employee-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "autoprefixer": "^10.4.0",
+    "chart.js": "^4.4.0",
+    "date-fns": "^3.0.0",
+    "framer-motion": "^11.0.0",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2",
+    "next": "^15.1.5",
+    "postcss": "^8.4.0",
+    "react": "^19.0.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.4.1",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.0.0"
+  }
+}
